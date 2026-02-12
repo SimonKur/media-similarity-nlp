@@ -1,0 +1,12 @@
+# Requiered packages 
+
+pandas
+os
+nltk
+re
+gensim
+spacy
+pyLDAvis
+pickle
+glob
+sentence_transformers
