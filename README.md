@@ -1,4 +1,4 @@
-# Media Simialrity Analysis of Swedish News Articles (NLP Project) 
+# Media Similarity Analysis of Swedish News Articles (NLP Project) 
 
 ## Overview 
 This project develops a semantic media similarity index for Swedish news articles using transformer-based language models. The objective is to quantify how closely media narratives align with expansionary or contractionary fiscal policy language.
